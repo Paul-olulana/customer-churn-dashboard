@@ -75,13 +75,15 @@ Key DAX measures created:
 
 The report contains **3 interactive pages**:
 1. **Customer Churn Dashboard:** KPIs, churn breakdown by gender, tenure group, payment method.
-   ![image](https://github.com/user-attachments/assets/d93bd995-ec4d-48bf-bd8e-1dfccff8db11)
+   ![image](https://github.com/user-attachments/assets/358e5553-36dd-4595-b240-f21456c8c964)
+
 
 2. **Customer Risk Dashboard:** Highlights churn by Internet Service, Tech/Admin Support, Contract & Tenure.
-   ![image](https://github.com/user-attachments/assets/accc7ffe-8179-43a9-a48d-fcf57619ce3a)
+   ![image](https://github.com/user-attachments/assets/c2d63e85-2a56-4fc3-9e50-d4e1b5a5a8f2)
 
 3. **Services Dashboard:** Shows churn breakdown by services used — Streaming, Tech Support, Multiple Lines, etc.
-   ![image](https://github.com/user-attachments/assets/a42d2cbd-7111-4d2f-8867-28acb86c0cc0)
+   ![image](https://github.com/user-attachments/assets/540c45c8-e21c-411e-8ad2-31842f60130f)
+
 
 Navigation buttons and reset filters ensure a smooth user experience.
 
